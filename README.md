@@ -10,6 +10,9 @@
      <a href="https://spb.hh.ru/resume/1ffe8e1bff0eee30590039ed1f654b6e42544f" target="_blank">
     <img src="https://img.shields.io/badge/HH-D32F2F?style=for-the-badge&logo=HH&logoColor=FFFFFF" alt="hh.ru" />
   </a>
+    <a href="mailto:rod020@mail.ru">
+    <img src="https://img.shields.io/badge/Mail.ru-white?style=flat&logoColor=white&logo=mail.ru&color=%233c9bd" style="height: 30px; width: auto;" />
+  </a>
  </div>
 
 <h3 align="left">Обо мне:</h3>
