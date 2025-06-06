@@ -4,7 +4,7 @@
 <h3 align="center">Решаю задачи бизнеса через аналитику.</h3>
 
 <div align="center">
-    <a href=" https://t.me/dr_rrrrrrrrr" target="_blank">
+    <a href="https://t.me/dr_rrrrrrrrr" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"  />
   </a>
      <a href="https://spb.hh.ru/resume/1ffe8e1bff0eee30590039ed1f654b6e42544f" target="_blank">
