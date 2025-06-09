@@ -60,7 +60,7 @@
 💡 Aнализ данных с помощью Python:
 * [Анализ рынка видеоигр](https://github.com/DariaRodina22/Python/blob/56b2d63b3271a136527c4f87165566749b63deb4/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D1%8B%D0%BD%D0%BA%D0%B0%20%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%D0%B8%D0%B3%D1%80.ipynb)
 * [Анализ рынка заведений общественного питания Москвы](https://github.com/DariaRodina22/Python/blob/5d1bee9a1e296e6a003b93f9b0a9dd1dad66dab5/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D1%8B%D0%BD%D0%BA%D0%B0%20%D0%B7%D0%B0%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B8%CC%86%20%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D1%8B.ipynb)
-* [Исследование стартапов для инвесторов](https://github.com/DariaRodina22/Python/blob/2f3b4b63ba364a6f9ce010ebb0a6d93d9c092647/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F%20%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%B0%D0%BF%D0%BE%D0%B2%20%D0%B4%D0%BB%D1%8F%20%D0%B8%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%B2.ipynb)
+* [Исследование стартапов для инвесторов](https://github.com/DariaRodina22/Python/blob/6143e16c1f4234fd3d3be1643e922e45c8c7d47a/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%B0%D0%BF%D0%BE%D0%B2%20%D0%B4%D0%BB%D1%8F%20%D0%B8%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%B2.ipynb)
 
 ⚖️ A/B-тестирование:
 
